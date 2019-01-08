@@ -2,6 +2,10 @@
 
 Aquest projecte conté els arxius corresponents a l'entrega de la pràctica 2.
 
+Autors:
+
+- Javier Alperte Pérez-Rejón
+
 Contingut:
 
 - __M2.951_20181-PRACT2.pdf/docx__: document que conté el anàlisis realitzat de les dades relacionades amb el conjunt de dades sobre vins disponible a [Kaggle.com](https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009/version/2)
